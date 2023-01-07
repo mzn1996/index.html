@@ -1,0 +1,80 @@
+body{
+    height: 1300px;
+}
+
+.img{
+    background-color: blue;
+    width: 155px;
+    height: 100px;
+    float: left;
+   
+}
+
+.img-e{
+    border: 1px black solid;
+    width: 60px;
+    height: 60px;
+    float: right;
+    border-radius: 10px;
+
+
+}
+
+.items{
+    background-color: rgb(95, 93, 93);
+    width: 266px;
+    height: 37px;
+    float: left;
+    text-align: center;
+    padding-top: 13px;
+    font-size: large;
+    
+}
+.fleur{
+    
+    float: left;
+}
+.list{
+    background-color: rgb(95, 93, 93);
+    width: 500px;
+    float: right;
+    margin-top: 33px;
+    font-size: large;
+
+}
+.a{
+    list-style:square;
+    padding: 14px;
+    font-size: large;
+}
+.h1{
+    background-color:white;
+    text-align: center;
+    padding-top: 33px;
+}
+.hh{
+    word-spacing: 11px;
+
+} 
+.parag{
+    background-color: white;
+    width: 800px;
+    font-size: large;
+    float: left;
+
+
+} 
+.list {
+    background-color: rgb(95, 93, 93);
+    width: 500px;
+    float: right;
+    margin-top: 66px;
+    font-size: large;
+}
+.img-3{
+    background-color: antiquewhite;
+    float: right;
+}
+.card{
+    float: left;
+}
